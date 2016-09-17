@@ -5,6 +5,7 @@ ITSP 2K16
 This repository is for my project "Autonomus Carrom Playing Bot", completed under Institute Technical Summer Project, IIT Bombay. 
 
 Details of included files:
+
 1.FinalAI.py 
   for deciding the best shot to be made
   
