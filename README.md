@@ -15,6 +15,7 @@ Details of included files:
   basic arduino code for taking power,angle input from the py script and translating it to the motors
   
 (Image_processing and Arduino can be found on here: https://github.com/Kkrrish/ITSP16-CarromStrike1.6 
+
 The included python script attempts to decide the best shot for our carrom bot. Basically, through Image Processing, we will first 
 obtain the co-ordinates of all the black, white, and red coins, and also their radius. Once that happens, we need to pick a 
 coin that will be the easiet shot for our bot. So we build up from various cases like single shot, double shot, cut shot etc. 
